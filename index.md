@@ -15,17 +15,17 @@ My analysis focused specifically on the Non-Major stakeholder group. I wanted to
 ### 1. Perceived Value Distribution
 First, I looked at how non-majors currently rate the value of the course. While many see the benefit, there is a significant cluster in the neutral range.
 
-![Value Distribution](static/imgs/value_dist.png)
+![Value Distribution](value_dist.png)
 
 ### 2. Interest vs. Perceived Value
 Next, I checked for a correlation. This scatterplot shows that students who are more interested in interdisciplinary connections generally feel the course is more valuable to their future.
 
-![Interest vs Value](static/imgs/value_rel.png)
+![Interest vs Value](value_rel.png)
 
 ### 3. Statistical Spread of Sentiments
 Finally, this boxplot shows the overall spread of ratings. While the median is high, the whiskers show a wide variety of opinions, proving there is room for improvement.
 
-![Value Boxplot](static/imgs/value_box.png)
+![Value Boxplot](value_box.png)
 
 ---
 
